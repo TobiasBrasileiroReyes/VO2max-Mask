@@ -33,7 +33,7 @@ Allows for BLE or WiFi or ANT+ connections from any other sensor
 - V4 - Proposed by Stefan, affectionately called "The Snork".  Latest version.
 
 ## Current Status
-Current Status (9/12/2025)
+Current Status (December 9th 2025)
 The mask is now fully assembled based on the bill of materials under the EU section in the BOM file.
 The Arduino v1.1 code has been updated with the latest sensor values.
 Recent work includes integrating a LiPo battery and an on/off switch, making the unit fully portable without needing USB power.
