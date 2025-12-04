@@ -1,7 +1,9 @@
 # VO2 Max Mask v 1.1
-Project to build an affordable and adaptable VO2 Max mask.  Your "VO2 Max" is a measure of how much oxygen your body and absorb and use during exercise, read more about it [here](https://www.healthline.com/health/vo2-max#benefits).
+Project to build an affordable and adaptable VO2 Max mask. Your VO2 Max is a measure of how much oxygen your body can absorb and use during exercise. Read more about it here￼.
 
-Original idea and detailed build instructions can be found on [Instructable](https://www.instructables.com/Accurate-VO2-Max-for-Zwift-and-Strava/). Other designs can be found [here, a UC Davis Med Center project](https://faculty.engineering.ucdavis.edu/knoesen/wp-content/uploads/sites/119/2016/12/OOCOO_WirelessHealthSubmission_Final.pdf) and a [commercial version that costs just under US$6,000](https://vo2master.com/).
+Original idea and detailed build instructions can be found on Instructable￼. Other designs include a UC Davis Med Center project￼ and a commercial version costing ~US$6,000￼.
+
+This fork of Meteoscientific￼ incorporates the CO₂ enhancements from Ulrich Rissel. The intent is to create a prototype that can be used by Sports Technology at KTH and enable future improvements.
 
 This fork of [Meteoscientific](https://github.com/meteoscientific/VO2max) incorporates the CO2 enhancements from Ulrich Rissel.  The intent with this repo is to make a prototype that can be used by Sports technology at KTH and be adble to make future improvements.
 
@@ -31,11 +33,26 @@ Allows for BLE or WiFi or ANT+ connections from any other sensor
 - V4 - Proposed by Stefan, affectionately called "The Snork".  Latest version.
 
 ## Current Status
-Currently (Oktober 16th 2025) a work in progress:
-The mask is built with the bill of materials under EU in the BOM file. 
-The code for Arduino v1.1 has been updated with new sensor values. 
-The battery is not installed and therefore neither is the on/off switch.
-Future recommendations can be found in the [Final report](https://github.com/Elin310/VO2max/papers/VO2MaxMaskFINAL.pdf)
+Current Status (9/12/2025)
+The mask is now fully assembled based on the bill of materials under the EU section in the BOM file.
+The Arduino v1.1 code has been updated with the latest sensor values.
+Recent work includes integrating a LiPo battery and an on/off switch, making the unit fully portable without needing USB power.
+Future recommendations can be found in the
+[Final report](https://github.com/Elin310/VO2max/papers/VO2MaxMaskFINAL.pdf)
+
+## Hardware Upgrade (December 2025): Battery & On/Off Switch
+1. LiPo Battery – E503450, 1000 mAh, 3.7V
+	•	Installed inside the enclosure.
+	•	Provides 2–4 hours of operation depending on display brightness and sensor load.
+	•	The battery is rechargeable.
+
+2. On/Off Switch
+	•	Connected in series with the battery positive lead.
+	•	Allows safe and clean power control.
+	•	No need to unplug USB or open the case to turn the device off.
+
+## Power-On Process
+!! After turning on the device using the on/off switch, you must press the side button next to the display to reset the system. Once the reset button is pressed, the device will boot normally and the system will start running. !!
 
 ### Steps to Build & Use
 
