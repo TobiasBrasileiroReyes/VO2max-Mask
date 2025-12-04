@@ -1,9 +1,7 @@
 # VO2 Max Mask v 1.1
-Project to build an affordable and adaptable VO2 Max mask. Your VO2 Max is a measure of how much oxygen your body can absorb and use during exercise. Read more about it here￼.
+Project to build an affordable and adaptable VO2 Max mask.  Your "VO2 Max" is a measure of how much oxygen your body and absorb and use during exercise, read more about it [here](https://www.healthline.com/health/vo2-max#benefits).
 
-Original idea and detailed build instructions can be found on Instructable￼. Other designs include a UC Davis Med Center project￼ and a commercial version costing ~US$6,000￼.
-
-This fork of Meteoscientific￼ incorporates the CO₂ enhancements from Ulrich Rissel. The intent is to create a prototype that can be used by Sports Technology at KTH and enable future improvements.
+Original idea and detailed build instructions can be found on [Instructable](https://www.instructables.com/Accurate-VO2-Max-for-Zwift-and-Strava/). Other designs can be found [here, a UC Davis Med Center project](https://faculty.engineering.ucdavis.edu/knoesen/wp-content/uploads/sites/119/2016/12/OOCOO_WirelessHealthSubmission_Final.pdf) and a [commercial version that costs just under US$6,000](https://vo2master.com/).
 
 This fork of [Meteoscientific](https://github.com/meteoscientific/VO2max) incorporates the CO2 enhancements from Ulrich Rissel.  The intent with this repo is to make a prototype that can be used by Sports technology at KTH and be adble to make future improvements.
 
