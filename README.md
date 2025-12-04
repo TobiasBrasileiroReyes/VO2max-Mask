@@ -36,7 +36,7 @@ The mask is now fully assembled based on the bill of materials under the EU sect
 The Arduino v1.1 code has been updated with the latest sensor values.
 Recent work includes integrating a LiPo battery and an on/off switch, making the unit fully portable without needing USB power.
 Future recommendations can be found in the
-[Final report]([https://github.com/Elin310/VO2max/papers/VO2MaxMaskFINAL.pdf](https://github.com/TobiasBrasileiroReyes/VO2max-Mask/blob/battery-and-on/off-switch-upgrade/papers/VO2MaxMaskFINAL.pdf))
+[Final report](https://github.com/TobiasBrasileiroReyes/VO2max-Mask/blob/battery-and-on/off-switch-upgrade/papers/VO2MaxMaskFINAL.pdf)
 
 ## Hardware Upgrade (December 2025): Battery & On/Off Switch
 1. LiPo Battery – E503450, 1000 mAh, 3.7V
