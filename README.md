@@ -52,7 +52,7 @@ Future recommendations can be found in the
 	•	No need to unplug USB or open the case to turn the device off.
 
 ## Power-On Process
-!! After turning on the device using the on/off switch, you must press the side button next to the display to reset the system. Once the reset button is pressed, the device will boot normally and the system will start running. !!
+!! After turning on the device using the on/off switch, you must press the side button next to the display to reset the screen. Once the reset button is pressed, the device will boot normally and the system will start running. !!
 
 ### Steps to Build & Use
 
