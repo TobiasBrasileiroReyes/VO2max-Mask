@@ -54,6 +54,14 @@ Future recommendations can be found in the
 ## Power-On Process
 !! After turning on the device using the on/off switch, you must press the side button next to the display to reset the screen. Once the reset button is pressed, the device will boot normally and the system will start running. !!
 
+## Battery Charging Instructions
+The LiPo battery (E503450, 1000 mAh) is charged directly through the USB-C port on the TTGO T-Display board.
+Guideline:
+  1. Turn the on/off switch to ON (charging will NOT start if the switch is OFF)
+  2. Connect a USB-C cable to the device.
+  3. A small red LED next to the USB-C port will turn on → charging.
+  4. When charging is complete, the LED will turn green.
+
 ### Steps to Build & Use
 
 ## Order Sensors, board, and assorted fasteners.
