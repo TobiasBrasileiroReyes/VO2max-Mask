@@ -49,7 +49,7 @@ Future recommendations can be found in the
 	•	No need to unplug USB or open the case to turn the device off.
 
 ## Power-On Process
-!! After turning on the device using the on/off switch, you must press the side button next to the display to reset the screen. Once the reset button is pressed, the device will boot normally and the system will start running. !!
+!! After turning on the device using the on/off switch, you must press the side button next to the display to reset the screen. Once the reset button is pressed, the system will start running. !!
 
 ## Battery Charging Instructions
 The LiPo battery (E503450, 1000 mAh) is charged directly through the USB-C port on the TTGO T-Display board.
