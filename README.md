@@ -50,12 +50,12 @@ Future recommendations can be found in the
 
 ## Power-On Process
 !! After turning on the device using the on/off switch, you must press the side button next to the display to reset the screen. Once the reset button is pressed, the system will start running. !!
+Instructions on the picture below:
 <figure>
     <img src="/images/arduino v1.1/battery-switch-images (upgrade)/startup_instructions.png" width="640" height="480"
          alt="Build parts">
     <figcaption>Hardware components, from the 3D printed case. </figcaption>
 </figure>
-Instructions on the picture below:
 
 ## Battery Charging Instructions
 The LiPo battery (E503450, 1000 mAh) is charged directly through the USB-C port on the TTGO T-Display board.
