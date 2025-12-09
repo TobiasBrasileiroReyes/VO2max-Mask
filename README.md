@@ -55,6 +55,7 @@ Future recommendations can be found in the
          alt="Build parts">
     <figcaption>Hardware components, from the 3D printed case. </figcaption>
 </figure>
+Instructions on the picture below:
 
 ## Battery Charging Instructions
 The LiPo battery (E503450, 1000 mAh) is charged directly through the USB-C port on the TTGO T-Display board.
